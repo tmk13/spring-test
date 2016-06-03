@@ -41,6 +41,7 @@ public class BookService {
 				.getResultList();
 		// Change for new branch
 		// Second change from page
+		// Third change from Eclipse
 		//List<Book> allBooks = bookDao.findBookByCategory(category);
 		return allBooks;
 	}

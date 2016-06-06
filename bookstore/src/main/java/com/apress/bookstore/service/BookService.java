@@ -44,6 +44,7 @@ public class BookService {
 		// Third change from Eclipse
 		// Some modification
 		// Something
+		// Edit last commit
 		//List<Book> allBooks = bookDao.findBookByCategory(category);
 		return allBooks;
 	}

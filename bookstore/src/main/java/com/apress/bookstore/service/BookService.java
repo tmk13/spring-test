@@ -46,6 +46,7 @@ public class BookService {
 		// test new change
 		// test change
 		// iss87 change
+		// another test conflicted change
 
 		//List<Book> allBooks = bookDao.findBookByCategory(category);
 		return allBooks;

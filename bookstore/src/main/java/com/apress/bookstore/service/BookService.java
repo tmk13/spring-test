@@ -40,6 +40,8 @@ public class BookService {
 		List<Book> allBooks = em.createNamedQuery("Book.findByCategory").setParameter("category", category)
 				.getResultList();
 
+		// master branch change
+
 		//List<Book> allBooks = bookDao.findBookByCategory(category);
 		return allBooks;
 	}

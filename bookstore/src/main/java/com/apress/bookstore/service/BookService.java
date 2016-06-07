@@ -43,7 +43,7 @@ public class BookService {
 		// some hotfix
 		// master branch change
 		// second master branch change
-		// change for iss53 branch
+		// test new change
 		// test change
 
 		//List<Book> allBooks = bookDao.findBookByCategory(category);

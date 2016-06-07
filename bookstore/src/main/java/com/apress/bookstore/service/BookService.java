@@ -41,6 +41,9 @@ public class BookService {
 				.getResultList();
 
 		// some hotfix
+		// master branch change
+		// second master branch change
+		// change for iss53 branch
 
 		//List<Book> allBooks = bookDao.findBookByCategory(category);
 		return allBooks;

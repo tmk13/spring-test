@@ -45,6 +45,7 @@ public class BookService {
 		// second master branch change
 		// test new change
 		// test change
+		// another test conflicted change
 
 		//List<Book> allBooks = bookDao.findBookByCategory(category);
 		return allBooks;
